@@ -1,4 +1,2 @@
 ### Kidz
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KidzAra&theme=github) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KidzAra&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KidzAra&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
