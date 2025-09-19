@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kidzara&show_icons=true&locale=en" alt="kidzara" /></p> 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KidzAra&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KidzAra&limit=5&theme=white&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KidzAra&icon=0&color=11)](https://visitcount.itsvg.in)
