@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Project Bravo by Mechanism interactive<br>👯 I’m looking for Roblox developers<br>🌱 I’m currently learning Java&Kotlin(Android-development) & C lang
+🔭 I’m currently working on Alarmator<br>👯  I’m currently learning Java&Kotlin(Android-development) & C lang
 
 
 ## 🌐 Socials:
