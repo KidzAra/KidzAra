@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Alarmator<br>👯  I’m currently learning Java&Kotlin(Android-development) & C lang
+🔭 I’m currently working on Alarmator and krch<br>  I’m currently learning Java&Kotlin & C lang
 
 
 ## 🌐 Socials:
