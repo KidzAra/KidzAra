@@ -1,21 +1,22 @@
+# Hi 👋, I'm Egor
 
-# 💫 About Me:
-🔭 I’m currently working on Alarmator and krch<br>  I’m currently learning Java+Kotlin & C
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KidzAra" alt="KidzAra" /></a> </p>
 
+- 🔭 I'm currently working on **alarmator and krch**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kidza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ms@kddz.ru) 
+- 🌱 I'm currently learning **Clang, Spring(Java)**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidzara&show_icons=true&locale=en&layout=compact" alt="kidzara" /></p>
+- 📫 How to reach me **kidzyaka@icloud.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kidzara&show_icons=true&locale=en" alt="kidzara" /></p> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/KidzAra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KidzAra" height="30" width="40" /></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KidzAra&limit=5&theme=white&combine_all_yearly_contributions=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=KidzAra&icon=0&color=11)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KidzAra&show_icons=true&locale=en&layout=compact" alt="KidzAra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KidzAra&show_icons=true&locale=en" alt="KidzAra" /></p>
 
